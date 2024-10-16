@@ -1,0 +1,114 @@
+h1 {
+    text-align: center;
+    padding-left: 20px;
+    color:black
+    
+}
+
+.align {
+
+    display: inline;
+    margin: 5px;
+  
+}
+
+h2 {
+    color: rgb(163, 6, 66)
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#aboutme {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.project {
+    color:rgb(20, 92, 70)
+}
+
+#footer {
+    background-color: black;
+  
+    padding: 20px;
+    color:burlywood
+    
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    background-color: #397483;
+    color: rgb(241, 233, 233);
+    border: none;
+    border-radius: 20px; 
+   
+}
+
+
+.navbar {
+    background-color: rgb(3, 3, 3);
+    font-size: larger;
+    padding: 2px;
+    text-align: center;
+}
+
+#tableau {
+   
+    margin-right: 0;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    width: 25%;
+    border: 2px solid black;
+}
+a{
+    color: antiquewhite;
+}
+header {
+    background-color: #b17747; 
+    color: #fff;
+    padding: 40px 0;
+  
+}
+.form-style{
+
+     width: 20%;
+    padding: 9px;
+    font-size: 15px;
+    margin-bottom: 20px;
+
+}
+.form-style input {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+.form-style label {
+    font-size: 18;
+}
+body{
+    background-color: rgb(255, 248, 240)
+}
+.test{
+
+    width: 40%;
+
+    height: 180px ;
+
+    display: inline-block;
+   
+
+}
+#part2{
+    margin-top: 50px;
+    margin-left: 20px;
+   
+}
+
+#work{
+    margin-top: 0;
+}
